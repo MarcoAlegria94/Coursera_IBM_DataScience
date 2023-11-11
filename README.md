@@ -2,7 +2,8 @@
 
 ## The journey of Data science
 The objective of this repository is presenting the journey that a Data Science project includes. 
-In this path we will go through the step-by-step that a Data scientist can walk to find what is needed. From the initial...
+In this path we will go through the step-by-step that a Data scientist can walk to find using different tools like Python, SQL, SciKit Learn among others. 
+From an initial Web Scrapping or API connection with, to data wrangling using Pandas, Numpy, 
 
 The archives are named on the order of the step-by-step requirements of the journey, where you can find the complete guide for each step.
 
